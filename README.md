@@ -6,7 +6,11 @@
 
 [Все версии для скачивания](https://github.com/armandnaj/Cydonia-Playtest/releases).
 
-Первая версия — **0.1.0 · Матрица прыжков**. Архив приложения пока не опубликован; ссылка на скачивание появится после загрузки.
+**[Скачать0.1.0 для Mac с Apple Silicon — ZIP,87МБ](https://github.com/armandnaj/Cydonia-Playtest/releases/download/v0.1.0/Cydonia-Matrix-v0.1.0-macOS-arm64.zip)**
+
+[Описание версии и проверочные файлы](https://github.com/armandnaj/Cydonia-Playtest/releases/tag/v0.1.0).
+
+Это предварительный релиз. Перед скачиванием прочитайте известные ограничения запуска ниже.
 
 ## Требования
 
