@@ -1,0 +1,30 @@
+name: Результат игровой пробы
+description: Ощущения, ошибка или непонятное управление
+title: "[Проба] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Версия и номер пробы
+      placeholder: 0.1.0, проба09 ПОСЛЕ
+    validations:
+      required: true
+  - type: dropdown
+    id: controls
+    attributes:
+      label: Управление
+      options:
+        - Клавиатура и мышь
+        - Геймпад
+  - type: textarea
+    id: result
+    attributes:
+      label: Что получилось и что мешало?
+      description: Что приятно? Где теряется контроль? Что непонятно?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Как повторить проблему?
+      description: Откуда прыгали, какие кнопки нажимали; можно приложить короткое видео.
